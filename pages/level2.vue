@@ -3,11 +3,11 @@
 </script>
 
 <template>
-  <NuxtPage />
+  <div>
+    2
+  </div>
 </template>
 
 <style scoped>
-body * {
-  /* position: relative; */
-}
+
 </style>
